@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714981306
+icon.svg::CompressedTexture2D::4546692957915126812::1714981253::1714981256::1::::<><>::
+::res://art/::1714981311
+body.material::StandardMaterial3D::-1::1605912108::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1606517742::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::317531934593529104::1580877609::1714981310::1::::<><>::
+mob.glb::PackedScene::6917075626029748934::1606517580::1714981310::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1606517742::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1605973415::0::1::::<><>::
+player.glb::PackedScene::4424352506542788324::1606517658::1714981311::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1606517742::0::1::::<><>::
+::res://fonts/::1605992083
+LICENSE.txt::TextFile::-1::1605992052::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::4540416961550200844::1323705600::1714981387::1::::<><>::
